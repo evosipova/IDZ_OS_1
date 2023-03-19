@@ -1,0 +1,2 @@
+Digits: 4
+Letters: 3

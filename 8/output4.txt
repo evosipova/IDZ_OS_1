@@ -1,0 +1,2 @@
+Digits: 24
+Letters: 80

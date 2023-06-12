@@ -1,2 +1,0 @@
-Digits: 11
-Letters: 183
